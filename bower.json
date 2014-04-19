@@ -1,0 +1,30 @@
+{
+	"name": "es7-shim",
+	"version": "0.0.0",
+	"main": "es7-shim.browser.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/es-shims/es7-shim"
+	},
+	"homepage": "https://github.com/es-shims/es7-shim",
+	"authors": [
+		"Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)"
+	],
+	"description": "ECMAScript 7 compatibility shims for legacy JavaScript engines",
+	"keywords": [
+		"shim",
+		"es7",
+		"shim",
+		"javascript",
+		"ecmascript",
+		"polyfill"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test"
+	]
+}
+
