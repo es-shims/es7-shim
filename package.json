@@ -27,7 +27,8 @@
 		"build": "touch es7-shim.js && touch es7-shim.min.js"
 	},
 	"devDependencies": {
-		"tape": "~3.0.3"
+		"tape": "~3.0.3",
+		"runsync": "~0.1.8"
 	},
 	"engines": {
 		"node": ">=0.4.0"
