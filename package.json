@@ -24,14 +24,18 @@
 	},
 	"scripts": {
 		"test": "node test/*.js",
-		"build": "touch es7-shim.js && touch es7-shim.min.js"
+		"prepublish": "npm run minify",
+		"build": "mkdir -p dist && browserify es7-shim.js > dist/es7-shim.js",
+		"minify": "npm run build && uglifyjs dist/es7-shim.js --comments --source-map=dist/es7-shim.map -m -b ascii_only=true,beautify=false > dist/es7-shim.min.js"
 	},
 	"dependencies": {
 		"array-includes": "~1.0.3"
 	},
 	"devDependencies": {
 		"tape": "~3.0.3",
-		"runsync": "~0.1.8"
+		"runsync": "~0.1.8",
+		"browserify": "~8.0.3",
+		"uglify-js": "~2.4.16"
 	},
 	"engines": {
 		"node": ">=0.4.0"
