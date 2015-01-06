@@ -26,6 +26,9 @@
 		"test": "node test/*.js",
 		"build": "touch es7-shim.js && touch es7-shim.min.js"
 	},
+	"dependencies": {
+		"array-includes": "~1.0.3"
+	},
 	"devDependencies": {
 		"tape": "~3.0.3",
 		"runsync": "~0.1.8"

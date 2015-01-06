@@ -19,7 +19,8 @@ Simply clone the repo, `npm install`, and run `npm test`
 
 ## Shims
 
-* None yet!
+`Array.prototype`:
+ * `includes`
 
 ## Shams
 
