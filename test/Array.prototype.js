@@ -1,1 +1,3 @@
-require('./Array.prototype.includes');
+module.exports = [
+	require('./Array.prototype.includes')
+];

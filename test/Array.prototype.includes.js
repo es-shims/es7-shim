@@ -1,1 +1,1 @@
-require('./util/runner')('Array.prototype.includes', 'array-includes');
+module.exports = require('./runner')('Array.prototype.includes', 'array-includes');
