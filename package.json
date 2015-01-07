@@ -1,6 +1,6 @@
 {
 	"name": "es7-shim",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "ECMAScript 7 compatibility shims for legacy JavaScript engines",
 	"homepage": "http://github.com/es-shims/es7-shim/",
 	"contributors": [
@@ -42,7 +42,7 @@
 		"tape": "~3.0.3",
 		"browserify": "~8.0.3",
 		"uglify-js": "~2.4.16",
-		"covert": "1.0.0",
+		"covert": "1.0.1",
 		"jscs": "~1.9.0",
 		"editorconfig-tools": "~0.0.1",
 		"nsp": "~0.5.2",
