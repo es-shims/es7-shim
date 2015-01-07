@@ -16,8 +16,8 @@
 			"url": "http://github.com/es-shims/es7-shim/raw/master/LICENSE"
 		}
 	],
-	"main": "es7-shim.js",
-	"browser": "es7-shim.browser.js",
+	"main": "index.js",
+	"browser": "browser.js",
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/es-shims/es7-shim.git"
