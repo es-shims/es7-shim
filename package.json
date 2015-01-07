@@ -47,7 +47,8 @@
 		"editorconfig-tools": "~0.0.1",
 		"nsp": "~0.5.2",
 		"eslint": "~0.11.0",
-		"es6-promise": "~2.0.1"
+		"es6-promise": "~2.0.1",
+		"semver": "~4.2.0"
 	},
 	"engines": {
 		"node": ">=0.4.0"
