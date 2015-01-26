@@ -1,3 +1,7 @@
+1.0.3 / 2015-01-25
+=================
+  * Fix accidental `covert` dev dependency version change
+
 1.0.2 / 2015-01-25
 =================
   * Update `array-includes`: now uses `es-abstract` for ECMAScript spec internal abstract operations
