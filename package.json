@@ -1,6 +1,6 @@
 {
 	"name": "es7-shim",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "ECMAScript 7 compatibility shims for legacy JavaScript engines",
 	"homepage": "http://github.com/es-shims/es7-shim/",
 	"contributors": [

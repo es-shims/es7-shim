@@ -1,3 +1,7 @@
+1.0.5 / 2015-01-30
+=================
+  * Update `array-includes`
+
 1.0.4 / 2015-01-29
 =================
   * Fix `npm run build` to browserify the package, so that dist/es7-shim* has the auto-shim version.
