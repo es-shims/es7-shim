@@ -20,7 +20,7 @@ Simply clone the repo, `npm install`, and run `npm test`
 ## Shims
 
 `Array.prototype`:
- * `includes`
+ * `includes` [standalone](npm-includes-url)
 
 ## Shams
 
@@ -35,4 +35,5 @@ Simply clone the repo, `npm install`, and run `npm test`
 [7]: https://david-dm.org/es-shims/es7-shim/dev-status.png
 [8]: https://david-dm.org/es-shims/es7-shim#info=devDependencies
 [9]: https://nodei.co/npm/es7-shim.png?downloads=true&stars=true
+[npm-includes-url]: https://www.npmjs.com/package/array-includes
 
