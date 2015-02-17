@@ -9,6 +9,6 @@ var $Array = require('./Array');
 module.exports = {
 	Array: $Array,
 	shim: function shimES7() {
-		$Array.prototype.includes.shim();
+		$Array.shim();
 	}
 };

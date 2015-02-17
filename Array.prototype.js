@@ -1,3 +1,8 @@
+var includes = require('./Array.prototype.includes');
+
 module.exports = {
-	includes: require('./Array.prototype.includes')
+	includes: includes,
+	shim: function shimArrayPrototype() {
+		includes.shim();
+	}
 };

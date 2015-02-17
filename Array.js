@@ -1,3 +1,8 @@
+var proto = require('./Array.prototype.js');
+
 module.exports = {
-	prototype: require('./Array.prototype.js')
+	prototype: proto,
+	shim: function shimArray() {
+		proto.shim();
+	}
 };
