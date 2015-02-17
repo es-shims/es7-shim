@@ -22,6 +22,9 @@ Simply clone the repo, `npm install`, and run `npm test`
 `Array.prototype`:
  * `includes` [standalone](npm-includes-url)
 
+`Object`:
+ * `getOwnPropertyDescriptors` [standalone](npm-get-descriptors-url)
+
 ## Shams
 
 * :warning: None yet!
@@ -36,4 +39,5 @@ Simply clone the repo, `npm install`, and run `npm test`
 [8]: https://david-dm.org/es-shims/es7-shim#info=devDependencies
 [9]: https://nodei.co/npm/es7-shim.png?downloads=true&stars=true
 [npm-includes-url]: https://www.npmjs.com/package/array-includes
+[npm-get-descriptors-url]: https://www.npmjs.com/package/object.getownpropertydescriptors
 

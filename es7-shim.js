@@ -5,10 +5,13 @@
  */
 
 var $Array = require('./Array');
+var $Object = require('./Object');
 
 module.exports = {
 	Array: $Array,
+	Object: $Object,
 	shim: function shimES7() {
 		$Array.shim();
+		$Object.shim();
 	}
 };
