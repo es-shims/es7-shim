@@ -1,3 +1,11 @@
+1.1.0 / 2015-02-17
+=================
+  * Add Object.getOwnPropertyDescriptors via https://www.npmjs.com/package/object.getownpropertydescriptors
+  * Add standalone links to README
+  * All grade A-supported `node`/`iojs` versions now ship with an `npm` that understands `^`.
+  * Run `travis-ci` tests on `iojs` and `node` v0.12; speed up builds; allow 0.8/0.11/0.4 failures.
+  * Update `tape`, `browserify`, `jscs`, `eslint`
+
 1.0.5 / 2015-01-30
 =================
   * Update `array-includes`
