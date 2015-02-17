@@ -1,1 +1,1 @@
-require('./Array.js');
+require('./Array');

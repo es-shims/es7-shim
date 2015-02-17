@@ -1,4 +1,4 @@
-var proto = require('./Array.prototype.js');
+var proto = require('./Array.prototype');
 
 module.exports = {
 	prototype: proto,
