@@ -20,10 +20,10 @@ Simply clone the repo, `npm install`, and run `npm test`
 ## Shims
 
 `Array.prototype`:
- * `includes` [standalone](npm-includes-url)
+ * `includes` [standalone][npm-includes-url]
 
 `Object`:
- * `getOwnPropertyDescriptors` [standalone](npm-get-descriptors-url)
+ * `getOwnPropertyDescriptors` [standalone][npm-get-descriptors-url]
 
 ## Shams
 
