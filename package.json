@@ -36,7 +36,7 @@
 		"security": "nsp package"
 	},
 	"dependencies": {
-		"array-includes": "^1.0.6",
+		"array-includes": "^1.1.0",
 		"object.getownpropertydescriptors": "^1.0.0"
 	},
 	"devDependencies": {
