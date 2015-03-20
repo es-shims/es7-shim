@@ -37,7 +37,8 @@
 	},
 	"dependencies": {
 		"array-includes": "^1.1.0",
-		"object.getownpropertydescriptors": "^1.0.1"
+		"object.getownpropertydescriptors": "^1.0.1",
+		"string-at": "^1.0.0"
 	},
 	"devDependencies": {
 		"tape": "^3.5.0",

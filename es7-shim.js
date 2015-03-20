@@ -6,12 +6,15 @@
 
 var $Array = require('./Array');
 var $Object = require('./Object');
+var $String = require('./String');
 
 module.exports = {
 	Array: $Array,
 	Object: $Object,
+	String: $String,
 	shim: function shimES7() {
 		$Array.shim();
 		$Object.shim();
+		$String.shim();
 	}
 };

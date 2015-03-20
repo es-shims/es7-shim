@@ -25,6 +25,9 @@ Simply clone the repo, `npm install`, and run `npm test`
 `Object`:
  * `getOwnPropertyDescriptors` [standalone][npm-get-descriptors-url]
 
+`String.prototype`:
+ * `at` [standalone][string-at-url]
+
 ## Shams
 
 * :warning: None yet!
@@ -40,4 +43,4 @@ Simply clone the repo, `npm install`, and run `npm test`
 [9]: https://nodei.co/npm/es7-shim.png?downloads=true&stars=true
 [npm-includes-url]: https://www.npmjs.com/package/array-includes
 [npm-get-descriptors-url]: https://www.npmjs.com/package/object.getownpropertydescriptors
-
+[string-at-url]: https://www.npmjs.com/package/string-at
