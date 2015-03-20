@@ -49,7 +49,8 @@
 		"nsp": "^1.0.1",
 		"eslint": "^0.17.1",
 		"es6-promise": "^2.0.1",
-		"semver": "^4.3.1"
+		"semver": "^4.3.1",
+		"replace": "^0.3.0"
 	},
 	"engines": {
 		"node": ">=0.4.0"
