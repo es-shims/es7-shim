@@ -1,3 +1,9 @@
+1.2.0 / 2015-03-20
+=================
+  * Add `String#at`
+  * Update `object.getownpropertydescriptors`
+  * Test on latest `io.js` versions.
+
 1.1.1 / 2015-03-19
 =================
   * Update `browserify`, `uglify-js`, `editorconfig-tools`, `nsp`, `eslint`, `semver`
