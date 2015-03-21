@@ -1,3 +1,7 @@
+1.2.1 / 2015-03-21
+=================
+  * Update built distribution files
+
 1.2.0 / 2015-03-20
 =================
   * Add `String#at`
