@@ -45,12 +45,12 @@
 		"browserify": "^9.0.3",
 		"uglify-js": "^2.4.17",
 		"covert": "^1.0.1",
-		"jscs": "^1.11.3",
+		"jscs": "^1.12.0",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^1.0.1",
 		"eslint": "^0.17.1",
 		"es6-promise": "^2.0.1",
-		"semver": "^4.3.1",
+		"semver": "^4.3.2",
 		"replace": "^0.3.0"
 	},
 	"engines": {

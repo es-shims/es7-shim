@@ -1,6 +1,16 @@
 {
 	"additionalRules": [],
 
+	"requireSemicolons": true,
+
+	"disallowMultipleSpaces": true,
+
+	"disallowIdentifierNames": [],
+
+	"requirePaddingNewLineAfterVariableDeclaration": true,
+
+	"requirePaddingNewLinesBeforeLineComments": true,
+
 	"requireCurlyBraces": ["if", "else", "for", "while", "do", "try", "catch"],
 
 	"requireSpaceAfterKeywords": ["if", "else", "for", "while", "do", "switch", "return", "try", "catch", "function"],
