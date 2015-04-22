@@ -5,16 +5,22 @@
  */
 
 var $Array = require('./Array');
+var $Map = require('./Map');
 var $Object = require('./Object');
+var $Set = require('./Set');
 var $String = require('./String');
 
 module.exports = {
 	Array: $Array,
+	Map: $Map,
 	Object: $Object,
+	Set: $Set,
 	String: $String,
 	shim: function shimES7() {
 		$Array.shim();
+		$Map.shim();
 		$Object.shim();
+		$Set.shim();
 		$String.shim();
 	}
 };

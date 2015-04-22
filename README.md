@@ -22,8 +22,14 @@ Simply clone the repo, `npm install`, and run `npm test`
 `Array.prototype`:
  * `includes` [standalone][npm-includes-url]
 
+`Map.prototype`:
+ * `toJSON` [standalone][map-tojson-url]
+
 `Object`:
  * `getOwnPropertyDescriptors` [standalone][npm-get-descriptors-url]
+
+`Set.prototype`:
+ * `toJSON` [standalone][set-tojson-url]
 
 `String.prototype`:
  * `at` [standalone][string-at-url]
@@ -44,3 +50,5 @@ Simply clone the repo, `npm install`, and run `npm test`
 [npm-includes-url]: https://www.npmjs.com/package/array-includes
 [npm-get-descriptors-url]: https://www.npmjs.com/package/object.getownpropertydescriptors
 [string-at-url]: https://www.npmjs.com/package/string-at
+[map-tojson-url]: https://www.npmjs.com/package/map-tojson
+[set-tojson-url]: https://www.npmjs.com/package/set-tojson

@@ -37,7 +37,9 @@
 	},
 	"dependencies": {
 		"array-includes": "^1.1.0",
+		"map-tojson": "^1.0.0",
 		"object.getownpropertydescriptors": "^1.0.1",
+		"set-tojson": "^1.0.0",
 		"string-at": "^1.0.0"
 	},
 	"devDependencies": {
