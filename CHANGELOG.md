@@ -1,3 +1,9 @@
+1.3.0 / 2015-04-22
+=================
+  * Add `Map#toJSON` and `Set#toJSON`
+  * Test on latest `io.js` versions.
+  * Update `jscs`, `semver`, `uglify-js`, `eslint`, `tape`, `browserify`
+
 1.2.1 / 2015-03-21
 =================
   * Update built distribution files
