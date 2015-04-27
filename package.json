@@ -37,9 +37,9 @@
 	},
 	"dependencies": {
 		"array-includes": "^1.1.0",
-		"map-tojson": "^1.0.0",
+		"map-tojson": "^2.0.0",
 		"object.getownpropertydescriptors": "^1.0.1",
-		"set-tojson": "^1.0.0",
+		"set-tojson": "^2.0.0",
 		"string-at": "^1.0.0"
 	},
 	"devDependencies": {
@@ -50,8 +50,8 @@
 		"jscs": "^1.12.0",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^1.0.1",
-		"eslint": "^0.19.0",
-		"es6-promise": "^2.0.1",
+		"eslint": "^0.20.0",
+		"es6-promise": "^2.1.1",
 		"semver": "^4.3.3",
 		"replace": "^0.3.0"
 	},
