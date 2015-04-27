@@ -1,3 +1,7 @@
+2.0.0 / 2015-04-26
+=================
+  * Update `Map#toJSON` and `Set#toJSON`
+
 1.3.0 / 2015-04-22
 =================
   * Add `Map#toJSON` and `Set#toJSON`
