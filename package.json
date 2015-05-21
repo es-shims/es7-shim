@@ -44,13 +44,13 @@
 	},
 	"devDependencies": {
 		"tape": "^4.0.0",
-		"browserify": "^10.2.0",
-		"uglify-js": "^2.4.21",
+		"browserify": "^10.2.1",
+		"uglify-js": "^2.4.23",
 		"covert": "^1.1.0",
 		"jscs": "^1.13.1",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^1.0.1",
-		"eslint": "^0.21.1",
+		"eslint": "^0.21.2",
 		"es6-promise": "^2.1.1",
 		"semver": "^4.3.4",
 		"replace": "^0.3.0"
