@@ -36,7 +36,7 @@
 		"security": "nsp package"
 	},
 	"dependencies": {
-		"array-includes": "^1.1.0",
+		"array-includes": "^1.1.1",
 		"map-tojson": "^2.0.0",
 		"object.getownpropertydescriptors": "^1.0.1",
 		"set-tojson": "^2.0.0",
