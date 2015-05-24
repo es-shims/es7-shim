@@ -1,3 +1,9 @@
+2.1.0 / 2015-05-23
+=================
+  * Add `SIMD` shim
+  * Minor updates to `Map#toJSON`, `Set#toJSON`, `Object.getOwnPropertyDescriptors`, `String#at`, `Array#includes`
+  * Update `eslint`, `browserify`, `uglify-js`, `covert`, `jscs`, `semver`
+
 2.0.0 / 2015-04-26
 =================
   * Update `Map#toJSON` and `Set#toJSON`
