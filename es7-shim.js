@@ -8,6 +8,7 @@ var $Array = require('./Array');
 var $Map = require('./Map');
 var $Object = require('./Object');
 var $Set = require('./Set');
+var $SIMD = require('./SIMD');
 var $String = require('./String');
 
 module.exports = {
@@ -15,12 +16,14 @@ module.exports = {
 	Map: $Map,
 	Object: $Object,
 	Set: $Set,
+	SIMD: $SIMD,
 	String: $String,
 	shim: function shimES7() {
 		$Array.shim();
 		$Map.shim();
 		$Object.shim();
 		$Set.shim();
+		$SIMD.shim();
 		$String.shim();
 	}
 };

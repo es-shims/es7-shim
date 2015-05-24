@@ -40,6 +40,7 @@
 		"map-tojson": "^2.0.1",
 		"object.getownpropertydescriptors": "^1.0.2",
 		"set-tojson": "^2.0.1",
+		"simd": "^1.0.0",
 		"string-at": "^1.0.1"
 	},
 	"devDependencies": {

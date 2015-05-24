@@ -31,6 +31,8 @@ Simply clone the repo, `npm install`, and run `npm test`
 `Set.prototype`:
  * `toJSON` [standalone][set-tojson-url]
 
+`SIMD`: [standalone][simd-url]
+
 `String.prototype`:
  * `at` [standalone][string-at-url]
 
@@ -52,3 +54,4 @@ Simply clone the repo, `npm install`, and run `npm test`
 [string-at-url]: https://www.npmjs.com/package/string-at
 [map-tojson-url]: https://www.npmjs.com/package/map-tojson
 [set-tojson-url]: https://www.npmjs.com/package/set-tojson
+[simd-url]: https://www.npmjs.com/package/simd
