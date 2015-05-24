@@ -1,3 +1,7 @@
+3.0.0 / 2015-05-23
+=================
+  * Update `array-includes` to not skip holes
+
 2.1.0 / 2015-05-23
 =================
   * Add `SIMD` shim
