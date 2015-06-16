@@ -28,6 +28,9 @@ Simply clone the repo, `npm install`, and run `npm test`
 `Object`:
  * `getOwnPropertyDescriptors` [standalone][npm-get-descriptors-url]
 
+`RegExp`:
+ * `escape` [standalone][regexp-escape-url]
+
 `Set.prototype`:
  * `toJSON` [standalone][set-tojson-url]
 
@@ -51,7 +54,8 @@ Simply clone the repo, `npm install`, and run `npm test`
 [9]: https://nodei.co/npm/es7-shim.png?downloads=true&stars=true
 [npm-includes-url]: https://www.npmjs.com/package/array-includes
 [npm-get-descriptors-url]: https://www.npmjs.com/package/object.getownpropertydescriptors
-[string-at-url]: https://www.npmjs.com/package/string-at
 [map-tojson-url]: https://www.npmjs.com/package/map-tojson
+[regexp-escape-url]: https://www.npmjs.com/package/regexp.escape
 [set-tojson-url]: https://www.npmjs.com/package/set-tojson
 [simd-url]: https://www.npmjs.com/package/simd
+[string-at-url]: https://www.npmjs.com/package/string-at
