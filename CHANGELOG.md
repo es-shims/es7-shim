@@ -1,3 +1,9 @@
+3.1.0 / 2015-06-16
+=================
+  * Add `RegExp.escape`
+  * Test up to `io.js` `v2.3`
+  * Update dev deps: `browserify`, `es6-promise`, `eslint`, `semver`
+
 3.0.0 / 2015-05-23
 =================
   * Update `array-includes` to not skip holes
