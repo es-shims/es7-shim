@@ -1,3 +1,5 @@
+'use strict';
+
 var getDescriptors = require('object.getownpropertydescriptors');
 
 module.exports = {

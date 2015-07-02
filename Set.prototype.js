@@ -1,3 +1,5 @@
+'use strict';
+
 var toJSON = require('./Set.prototype.toJSON');
 
 module.exports = {

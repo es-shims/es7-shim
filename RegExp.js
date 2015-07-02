@@ -1,3 +1,5 @@
+'use strict';
+
 var escape = require('./RegExp.escape');
 
 module.exports = {

@@ -1,3 +1,5 @@
+'use strict';
+
 var stringPrototype = require('./String.prototype');
 
 module.exports = {

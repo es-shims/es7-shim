@@ -1,3 +1,5 @@
+'use strict';
+
 var proto = require('./Set.prototype');
 
 module.exports = {

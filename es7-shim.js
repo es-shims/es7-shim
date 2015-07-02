@@ -4,6 +4,8 @@
  * see https://github.com/es-shims/es7-shim/blob/master/LICENSE
  */
 
+'use strict';
+
 var $Array = require('./Array');
 var $Map = require('./Map');
 var $Object = require('./Object');

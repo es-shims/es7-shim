@@ -1,3 +1,5 @@
+'use strict';
+
 require('./Array');
 require('./Map');
 require('./Object');

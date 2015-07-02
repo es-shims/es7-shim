@@ -1,3 +1,5 @@
+'use strict';
+
 var includes = require('./Array.prototype.includes');
 
 module.exports = {

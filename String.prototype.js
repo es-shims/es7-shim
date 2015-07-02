@@ -1,3 +1,5 @@
+'use strict';
+
 var at = require('./String.prototype.at');
 
 module.exports = {

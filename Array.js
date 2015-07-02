@@ -1,3 +1,5 @@
+'use strict';
+
 var proto = require('./Array.prototype');
 
 module.exports = {

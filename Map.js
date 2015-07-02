@@ -1,3 +1,5 @@
+'use strict';
+
 var proto = require('./Map.prototype');
 
 module.exports = {
