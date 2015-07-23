@@ -1,10 +1,10 @@
 'use strict';
 
-var escape = require('./RegExp.escape');
+var escapeShim = require('./RegExp.escape');
 
 module.exports = {
-	escape: escape,
+	escape: escapeShim,
 	shim: function shimRegExp() {
-		escape.shim();
+		escapeShim.shim();
 	}
 };
