@@ -39,7 +39,7 @@
 		"array-includes": "^2.0.0",
 		"map-tojson": "^2.0.1",
 		"object.getownpropertydescriptors": "^1.0.4",
-		"regexp.escape": "^1.0.1",
+		"regexp.escape": "^1.0.2",
 		"set-tojson": "^2.0.1",
 		"simd": "^2.0.0",
 		"string-at": "^1.0.1"
@@ -47,7 +47,7 @@
 	"devDependencies": {
 		"tape": "^4.0.1",
 		"browserify": "^11.0.0",
-		"uglify-js": "^2.4.23",
+		"uglify-js": "^2.4.24",
 		"covert": "^1.1.0",
 		"jscs": "^1.13.1",
 		"editorconfig-tools": "^0.1.1",
