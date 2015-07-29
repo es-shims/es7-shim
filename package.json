@@ -42,7 +42,9 @@
 		"regexp.escape": "^1.0.2",
 		"set-tojson": "^2.0.1",
 		"simd": "^2.0.0",
-		"string-at": "^1.0.1"
+		"string-at": "^1.0.1",
+		"string.prototype.trimleft": "^1.0.1",
+		"string.prototype.trimright": "^1.0.1"
 	},
 	"devDependencies": {
 		"tape": "^4.0.1",
