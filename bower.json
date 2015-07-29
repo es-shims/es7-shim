@@ -1,6 +1,5 @@
 {
 	"name": "es7-shim",
-	"version": "4.0.0",
 	"main": "es7-shim.browser.js",
 	"repository": {
 		"type": "git",

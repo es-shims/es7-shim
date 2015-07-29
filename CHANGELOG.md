@@ -1,3 +1,9 @@
+4.1.0 / 2015-07-29
+=================
+  * Add `String#trimLeft` and `String#trimRight`
+  * [Deps] Update `object.getownpropertydescriptors`, `regexp.escape`
+  * [Dev deps] Update `eslint`, `nsp`, `browserify`, `semver`, `tape`, `uglify-js`
+
 4.0.0 / 2015-06-17
 =================
   * Update `simd` to `v2.0.0`
