@@ -1,3 +1,7 @@
+4.2.0 / 2015-07-30
+=================
+  * Add `String#padLeft` and `String#padRight`
+
 4.1.0 / 2015-07-29
 =================
   * Add `String#trimLeft` and `String#trimRight`
