@@ -4,6 +4,7 @@
 	"extends": "@ljharb",
 
 	"rules": {
+		"id-length": [2, { "max": 30 }],
 		"spaced-comment": [1, "always"]
 	}
 }
