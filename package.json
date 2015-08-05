@@ -49,7 +49,7 @@
 		"string.prototype.trimright": "^1.0.1"
 	},
 	"devDependencies": {
-		"tape": "^4.0.1",
+		"tape": "^4.0.2",
 		"browserify": "^11.0.1",
 		"uglify-js": "^2.4.24",
 		"covert": "^1.1.0",
