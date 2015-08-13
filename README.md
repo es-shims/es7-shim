@@ -44,7 +44,7 @@ Simply clone the repo, `npm install`, and run `npm test`
 * :warning: None yet!
 
 [1]: https://npmjs.org/package/es7-shim
-[2]: http://vb.teelaun.ch/es-shims/es7-shim.svg
+[2]: http://versionbadg.es/es-shims/es7-shim.svg
 [3]: https://travis-ci.org/es-shims/es7-shim.svg
 [4]: https://travis-ci.org/es-shims/es7-shim
 [5]: https://david-dm.org/es-shims/es7-shim.png
