@@ -10,12 +10,7 @@
 		"mail": "ljharb@gmail.com",
 		"url": "http://github.com/es-shims/es7-shim/issues"
 	},
-	"licenses": [
-		{
-			"type": "MIT",
-			"url": "http://github.com/es-shims/es7-shim/raw/master/LICENSE"
-		}
-	],
+    "license": "MIT",
 	"main": "index.js",
 	"browser": "browser.js",
 	"repository": {
