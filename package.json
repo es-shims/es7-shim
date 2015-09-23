@@ -10,7 +10,7 @@
 		"mail": "ljharb@gmail.com",
 		"url": "http://github.com/es-shims/es7-shim/issues"
 	},
-    "license": "MIT",
+	"license": "MIT",
 	"main": "index.js",
 	"browser": "browser.js",
 	"repository": {
@@ -47,16 +47,16 @@
 	},
 	"devDependencies": {
 		"tape": "^4.2.0",
-		"browserify": "^11.0.1",
+		"browserify": "^11.1.0",
 		"uglify-js": "^2.4.24",
 		"covert": "^1.1.0",
 		"jscs": "^2.1.1",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^1.1.0",
-		"eslint": "^1.3.0",
-		"@ljharb/eslint-config": "^1.1.0",
+		"eslint": "^1.5.1",
+		"@ljharb/eslint-config": "^1.2.0",
 		"es6-promise": "^3.0.2",
-		"semver": "^5.0.1",
+		"semver": "^5.0.3",
 		"replace": "^0.3.0"
 	},
 	"engines": {
