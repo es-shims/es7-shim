@@ -1,3 +1,12 @@
+4.3.0 / 2015-09-23
+=================
+  * Add `Object.entries` and `Object.values`
+  * [Deps] update `array-includes`
+  * [Dev Deps] update `eslint`, `@ljharb/eslint-config`, `jscs`, `tape`, `es6-promise`, `nsp`
+  * [Tests] up to `io.js` `v3.3`, `node` `v4.1`
+  * [Docs] Switch from vb.teelaun.ch to versionbadg.es for the npm version badge SVG.
+  * [Docs] Fix license field in package.json
+
 4.2.0 / 2015-07-30
 =================
   * Add `String#padLeft` and `String#padRight`
