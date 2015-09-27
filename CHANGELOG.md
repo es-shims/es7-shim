@@ -1,3 +1,9 @@
+4.3.1 / 2015-09-26
+=================
+  * [Deps] update `object.entries`, `object.values`, `string.prototype.padleft`, `string.prototype.padright`
+  * [Test] on `node` `v4.1`
+  * [Dev Deps] update `browserify`, `eslint`, `@ljharb/eslint-config`, `semver`
+
 4.3.0 / 2015-09-23
 =================
   * Add `Object.entries` and `Object.values`
