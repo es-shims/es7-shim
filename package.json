@@ -3,6 +3,7 @@
 	"version": "4.3.1",
 	"description": "ECMAScript 7 compatibility shims for legacy JavaScript engines",
 	"homepage": "http://github.com/es-shims/es7-shim/",
+	"author": "Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)",
 	"contributors": [
 		"Jordan Harband <ljharb@gmail.com> (https://github.com/ljharb/)"
 	],
@@ -17,6 +18,14 @@
 		"type": "git",
 		"url": "http://github.com/es-shims/es7-shim.git"
 	},
+	"keywords": [
+		"ecmascript",
+		"harmony",
+		"es7",
+		"ES2016",
+		"shim",
+		"polyfill"
+	],
 	"scripts": {
 		"test": "npm run lint && node test/index.js && npm run security",
 		"prepublish": "npm run minify",
