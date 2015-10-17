@@ -59,7 +59,7 @@
 		"browserify": "^11.2.0",
 		"uglify-js": "^2.4.24",
 		"covert": "^1.1.0",
-		"jscs": "^2.2.1",
+		"jscs": "^2.3.4",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^1.1.0",
 		"requiresafe": "^2.1.1",
