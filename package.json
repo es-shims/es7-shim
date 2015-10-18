@@ -62,7 +62,7 @@
 		"jscs": "^2.3.4",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^1.1.0",
-		"requiresafe": "^2.1.1",
+		"requiresafe": "^2.2.0",
 		"eslint": "^1.7.1",
 		"@ljharb/eslint-config": "^1.4.1",
 		"es6-promise": "^3.0.2",
