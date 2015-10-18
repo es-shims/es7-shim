@@ -37,7 +37,7 @@
 		"jscs": "jscs test/index.js *.js",
 		"eslint": "eslint test/index.js *.js",
 		"eccheck": "editorconfig-tools check *.js **/*.js > /dev/null",
-		"security": "nsp package && requiresafe check"
+		"security": "requiresafe check"
 	},
 	"dependencies": {
 		"array-includes": "^3.0.1",
@@ -61,7 +61,6 @@
 		"covert": "^1.1.0",
 		"jscs": "^2.3.4",
 		"editorconfig-tools": "^0.1.1",
-		"nsp": "^1.1.0",
 		"requiresafe": "^2.2.0",
 		"eslint": "^1.7.1",
 		"@ljharb/eslint-config": "^1.4.1",
