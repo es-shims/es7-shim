@@ -16,6 +16,7 @@
 	"disallowSpaceAfterKeywords": [],
 
 	"disallowSpaceBeforeComma": true,
+	"disallowSpaceAfterComma": false,
 	"disallowSpaceBeforeSemicolon": true,
 
 	"disallowNodeTypes": [
@@ -27,7 +28,7 @@
 		"WithStatement"
 	],
 
-	"requireObjectKeysOnNewLine": true,
+	"requireObjectKeysOnNewLine": { "allExcept": ["sameLine"] },
 
 	"requireSpacesInAnonymousFunctionExpression": { "beforeOpeningRoundBrace": true, "beforeOpeningCurlyBrace": true },
 	"requireSpacesInNamedFunctionExpression": { "beforeOpeningCurlyBrace": true },
@@ -76,7 +77,7 @@
 
 	"disallowMultipleLineStrings": true,
 
-	"requireDotNotation": true,
+	"requireDotNotation": { "allExcept": ["keywords"] },
 
 	"requireParenthesesAroundIIFE": true,
 
@@ -127,6 +128,7 @@
 
 	"disallowNestedTernaries": { "maxLevel": 1 },
 
-	"requireSpaceAfterComma": true
+	"requireSpaceAfterComma": true,
+	"requireAlignedMultilineParams": false
 }
 
