@@ -40,6 +40,8 @@ Simply clone the repo, `npm install`, and run `npm test`
 
 `String.prototype`:
  * `at` [standalone][string-at-url]
+ * `trimLeft` [standalone][string-trimleft-url]
+ * `trimRight` [standalone][string-trimright-url]
 
 ## Shams
 
@@ -63,3 +65,5 @@ Simply clone the repo, `npm install`, and run `npm test`
 [string-at-url]: https://www.npmjs.com/package/string-at
 [object-entries-url]: https://www.npmjs.com/package/object.entries
 [object-values-url]: https://www.npmjs.com/package/object.values
+[string-trimleft-url]: https://www.npmjs.com/package/string.prototype.trimleft
+[string-trimright-url]: https://www.npmjs.com/package/string.prototype.trimright
