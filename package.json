@@ -50,8 +50,8 @@
 		"set-tojson": "^2.0.1",
 		"simd": "^2.0.0",
 		"string-at": "^1.0.1",
-		"string.prototype.padleft": "^2.0.0",
-		"string.prototype.padright": "^2.0.0",
+		"string.prototype.padstart": "^3.0.0",
+		"string.prototype.padend": "^3.0.0",
 		"string.prototype.trimleft": "^1.0.1",
 		"string.prototype.trimright": "^1.0.1"
 	},

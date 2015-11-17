@@ -1,21 +1,21 @@
 'use strict';
 
 var at = require('./String.prototype.at');
-var padLeft = require('./String.prototype.padLeft');
-var padRight = require('./String.prototype.padRight');
+var padStart = require('./String.prototype.padStart');
+var padEnd = require('./String.prototype.padEnd');
 var trimLeft = require('./String.prototype.trimLeft');
 var trimRight = require('./String.prototype.trimRight');
 
 module.exports = {
 	at: at,
-	padLeft: padLeft,
-	padRight: padRight,
+	padStart: padStart,
+	padEnd: padEnd,
 	trimLeft: trimLeft,
 	trimRight: trimRight,
 	shim: function shimStringPrototype() {
 		at.shim();
-		padLeft.shim();
-		padRight.shim();
+		padStart.shim();
+		padEnd.shim();
 		trimLeft.shim();
 		trimRight.shim();
 	}
