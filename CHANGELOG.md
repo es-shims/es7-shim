@@ -1,3 +1,13 @@
+5.0.0 / 2015-11-17
+=================
+  * [Breaking] Rename `String#{padLeft,padRight}` → `String#{padStart,padEnd}`
+  * [Deps] update `object.entries`, `object.values`
+  * [Dev Deps] update `jscs`, `tape`, `eslint`, `@ljharb/eslint-config`, `uglify-js`, `nsp`, `browserify`
+  * [Tests] up to `node` `v5.0`
+  * [Tests] fix npm upgrades on older node versions
+  * [Docs] Add `npm` keywords and author
+  * [Docs] Add `trimLeft`/`trimRight` to README
+
 4.3.1 / 2015-09-26
 =================
   * [Deps] update `object.entries`, `object.values`, `string.prototype.padleft`, `string.prototype.padright`
