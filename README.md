@@ -36,8 +36,6 @@ Simply clone the repo, `npm install`, and run `npm test`
 `Set.prototype`:
  * `toJSON` [standalone][set-tojson-url]
 
-`SIMD`: [standalone][simd-url]
-
 `String.prototype`:
  * `at` [standalone][string-at-url]
  * `trimLeft` [standalone][string-trimleft-url]
@@ -63,7 +61,6 @@ Simply clone the repo, `npm install`, and run `npm test`
 [map-tojson-url]: https://www.npmjs.com/package/map-tojson
 [regexp-escape-url]: https://www.npmjs.com/package/regexp.escape
 [set-tojson-url]: https://www.npmjs.com/package/set-tojson
-[simd-url]: https://www.npmjs.com/package/simd
 [string-at-url]: https://www.npmjs.com/package/string-at
 [object-entries-url]: https://www.npmjs.com/package/object.entries
 [object-values-url]: https://www.npmjs.com/package/object.values

@@ -11,7 +11,6 @@ var $Map = require('./Map');
 var $Object = require('./Object');
 var $RegExp = require('./RegExp');
 var $Set = require('./Set');
-var $SIMD = require('./SIMD');
 var $String = require('./String');
 
 module.exports = {
@@ -20,7 +19,6 @@ module.exports = {
 	Object: $Object,
 	RegExp: $RegExp,
 	Set: $Set,
-	SIMD: $SIMD,
 	String: $String,
 	shim: function shimES7() {
 		$Array.shim();
@@ -28,7 +26,6 @@ module.exports = {
 		$Object.shim();
 		$RegExp.shim();
 		$Set.shim();
-		$SIMD.shim();
 		$String.shim();
 	}
 };
