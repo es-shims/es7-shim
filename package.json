@@ -46,7 +46,6 @@
 		"object.getownpropertydescriptors": "^1.0.4",
 		"object.entries": "^1.0.3",
 		"object.values": "^1.0.3",
-		"regexp.escape": "^1.0.2",
 		"set-tojson": "^2.0.1",
 		"string-at": "^1.0.1",
 		"string.prototype.padstart": "^3.0.0",

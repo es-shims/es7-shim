@@ -30,9 +30,6 @@ Simply clone the repo, `npm install`, and run `npm test`
  * `entries` [standalone][object-entries-url]
  * `values` [standalone][object-values-url]
 
-`RegExp`:
- * `escape` [standalone][regexp-escape-url]
-
 `Set.prototype`:
  * `toJSON` [standalone][set-tojson-url]
 
@@ -59,7 +56,6 @@ Simply clone the repo, `npm install`, and run `npm test`
 [npm-includes-url]: https://www.npmjs.com/package/array-includes
 [npm-get-descriptors-url]: https://www.npmjs.com/package/object.getownpropertydescriptors
 [map-tojson-url]: https://www.npmjs.com/package/map-tojson
-[regexp-escape-url]: https://www.npmjs.com/package/regexp.escape
 [set-tojson-url]: https://www.npmjs.com/package/set-tojson
 [string-at-url]: https://www.npmjs.com/package/string-at
 [object-entries-url]: https://www.npmjs.com/package/object.entries
