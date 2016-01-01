@@ -148,6 +148,8 @@
 
 	"requireEnhancedObjectLiterals": false,
 
-	"requireObjectDestructuring": false
+	"requireObjectDestructuring": false,
+
+	"requireEarlyReturn": false
 }
 
