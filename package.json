@@ -43,7 +43,7 @@
 	"dependencies": {
 		"array-includes": "^3.0.1",
 		"map-tojson": "^2.0.1",
-		"object.getownpropertydescriptors": "^1.0.4",
+		"object.getownpropertydescriptors": "^2.0.0",
 		"object.entries": "^1.0.3",
 		"object.values": "^1.0.3",
 		"set-tojson": "^2.0.1",
