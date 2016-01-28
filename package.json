@@ -58,7 +58,7 @@
 		"browserify": "^13.0.0",
 		"uglify-js": "^2.6.1",
 		"covert": "^1.1.0",
-		"jscs": "^2.8.0",
+		"jscs": "^2.9.0",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^2.2.0",
 		"eslint": "^1.10.3",

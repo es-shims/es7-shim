@@ -150,6 +150,10 @@
 
 	"requireObjectDestructuring": false,
 
-	"requireEarlyReturn": false
+	"requireEarlyReturn": false,
+
+	"requireCapitalizedConstructorsNew": {
+		"allExcept": ["Function", "String", "Object", "Symbol", "Number", "Date", "RegExp", "Error", "Boolean", "Array"]
+	}
 }
 
