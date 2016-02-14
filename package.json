@@ -61,9 +61,9 @@
 		"jscs": "^2.9.0",
 		"editorconfig-tools": "^0.1.1",
 		"nsp": "^2.2.0",
-		"eslint": "^1.10.3",
-		"@ljharb/eslint-config": "^1.6.1",
-		"es6-promise": "^3.0.2",
+		"eslint": "^2.0.0",
+		"@ljharb/eslint-config": "^2.1.1",
+		"es6-promise": "^3.1.2",
 		"semver": "^5.1.0",
 		"replace": "^0.3.0",
 		"parallelshell": "^2.0.0"
