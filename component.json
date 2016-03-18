@@ -12,7 +12,7 @@
 		"polyfill"
 	],
 	"license": "MIT",
-	"main": "es7-shim.browser.js",
+	"main": "browser.js",
 	"scripts": [
 		"dist/es7-shim.js"
 	]

@@ -1,6 +1,6 @@
 {
 	"name": "es7-shim",
-	"main": "es7-shim.browser.js",
+	"main": "browser.js",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/es-shims/es7-shim"
