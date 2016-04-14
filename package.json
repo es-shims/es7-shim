@@ -59,7 +59,7 @@
 		"browserify": "^13.0.0",
 		"uglify-js": "^2.6.2",
 		"covert": "^1.1.0",
-		"jscs": "^2.11.0",
+		"jscs": "^3.0.1",
 		"nsp": "^2.2.2",
 		"eslint": "^2.5.3",
 		"@ljharb/eslint-config": "^2.2.0",
