@@ -1,3 +1,14 @@
+6.0.0 / 2016-07-05
+=================
+  * [Breaking] remove `Map#toJSON`/`Set#toJSON`, since they were rejected by TC39
+  * [Breaking] Remove `SIMD` shim (out of date + unpolyfillable)
+  * [Breaking] Remove `RegExp.escape`, since it was rejected by TC39
+  * [Deps] update `array-includes`, `object.getownpropertydescriptors`, `string.prototype.trimright`, `string.prototype.trimleft`
+  * [Fix] fix “main” in bower.json/component.json (#15)
+  * [Tests] up to `node` `v6.2`, `v5.12`, `v4.4`
+  * [Tests] use pretest/posttest for linting/security
+  * [Dev Deps] update `tape`, `browserify`, `uglify-js`, `jscs`, `nsp`, `eslint`, `@ljharb/eslint-config`, `es6-promise`, `semver`
+
 5.0.0 / 2015-11-17
 =================
   * [Breaking] Rename `String#{padLeft,padRight}` → `String#{padStart,padEnd}`
