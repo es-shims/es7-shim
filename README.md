@@ -22,16 +22,10 @@ Simply clone the repo, `npm install`, and run `npm test`
 `Array.prototype`:
  * `includes` [standalone][npm-includes-url]
 
-`Map.prototype`:
- * `toJSON` [standalone][map-tojson-url]
-
 `Object`:
  * `getOwnPropertyDescriptors` [standalone][npm-get-descriptors-url]
  * `entries` [standalone][object-entries-url]
  * `values` [standalone][object-values-url]
-
-`Set.prototype`:
- * `toJSON` [standalone][set-tojson-url]
 
 `String.prototype`:
  * `at` [standalone][string-at-url]

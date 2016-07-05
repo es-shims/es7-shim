@@ -43,11 +43,9 @@
 	},
 	"dependencies": {
 		"array-includes": "^3.0.2",
-		"map-tojson": "^2.0.1",
 		"object.getownpropertydescriptors": "^2.0.2",
 		"object.entries": "^1.0.3",
 		"object.values": "^1.0.3",
-		"set-tojson": "^2.0.1",
 		"string-at": "^1.0.1",
 		"string.prototype.padstart": "^3.0.0",
 		"string.prototype.padend": "^3.0.0",
