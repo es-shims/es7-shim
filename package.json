@@ -59,7 +59,7 @@
 		"covert": "^1.1.0",
 		"jscs": "^3.0.6",
 		"nsp": "^2.5.0",
-		"eslint": "^3.0.1",
+		"eslint": "^3.9.1",
 		"@ljharb/eslint-config": "^6.0.0",
 		"es6-promise": "^3.2.1",
 		"semver": "^5.2.0",
