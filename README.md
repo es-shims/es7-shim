@@ -1,4 +1,4 @@
-#es7-shim <sup>[![Version Badge][2]][1]</sup>
+# es7-shim <sup>[![Version Badge][2]][1]</sup>
 
 [![npm badge][9]][1]
 
