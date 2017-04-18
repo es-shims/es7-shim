@@ -4,6 +4,7 @@
 	"extends": "@ljharb",
 
 	"rules": {
-		"id-length": [2, { "max": 30 }]
+		"id-length": [2, { "max": 30 }],
+		"sort-keys": [1]
 	}
 }
