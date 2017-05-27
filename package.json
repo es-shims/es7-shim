@@ -54,7 +54,7 @@
 	},
 	"devDependencies": {
 		"tape": "^4.6.3",
-		"browserify": "^14.3.0",
+		"browserify": "^14.4.0",
 		"uglify-js": "^2.8.22",
 		"covert": "^1.1.0",
 		"jscs": "^3.0.7",
