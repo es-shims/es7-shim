@@ -42,13 +42,13 @@
 		"security": "nsp check"
 	},
 	"dependencies": {
-		"array-includes": "^3.0.2",
-		"object.getownpropertydescriptors": "^2.0.3",
+		"array-includes": "^3.0.3",
 		"object.entries": "^1.0.4",
+		"object.getownpropertydescriptors": "^2.0.3",
 		"object.values": "^1.0.4",
 		"string-at": "^1.0.1",
-		"string.prototype.padstart": "^3.0.0",
 		"string.prototype.padend": "^3.0.0",
+		"string.prototype.padstart": "^3.0.0",
 		"string.prototype.trimleft": "^2.0.0",
 		"string.prototype.trimright": "^2.0.0"
 	},
@@ -88,4 +88,3 @@
 		]
 	}
 }
-
