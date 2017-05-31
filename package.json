@@ -86,5 +86,10 @@
 			"iphone/6.0..latest",
 			"android-browser/4.2"
 		]
+	},
+	"greenkeeper": {
+		"ignore": [
+			"uglify-js"
+		]
 	}
 }
