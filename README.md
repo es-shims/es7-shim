@@ -1,5 +1,7 @@
 # es7-shim <sup>[![Version Badge][2]][1]</sup>
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/es-shims/es7-shim.svg)](https://greenkeeper.io/)
+
 [![npm badge][9]][1]
 
 [![Build Status][3]][4] [![dependency status][5]][6]  [![dev dependency status][7]][8]
